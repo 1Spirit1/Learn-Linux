@@ -16,8 +16,6 @@ DON'T MAKE UNESCESSARY COMMITS AND PRs
 
 ### Types of contribution you can make
 
-Throughout the program there are three modes of contribution, as listed below:
-
 1. Documentation
 
 - Content Creation in the form of codes or tutorials
