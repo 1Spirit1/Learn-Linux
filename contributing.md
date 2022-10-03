@@ -127,4 +127,4 @@ Remember your upstream base branch should be main and source should be your feat
 
 Awesome! You've already made your first contribution.🥳
 
-#### Happy Contributing 👩‍💻👩‍💻
+#### Happy Contributing 
