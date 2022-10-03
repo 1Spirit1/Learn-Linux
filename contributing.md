@@ -7,7 +7,7 @@ Follow below rules for smooth contribution and create this repo valuable resourc
 
  1. See the Issue section <br/>
 
-Try to make PR to only for open issues. See the issue section for open issues. Get yourself assigned and work on it. Issuesthat contain "open-assign" tag
+Try to make PR to only for open issues. See the issue section for open issues. Get yourself assigned and work on it. Issuesthat contain "self-assign" tag
 don't need assignment, anyone can work on them.<br/>
 **NOTE :** If think any area needs modification like content is outdated,typo, improvement you can open that issue by yourself and work on it.
 
