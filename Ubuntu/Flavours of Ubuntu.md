@@ -60,16 +60,15 @@ The lightweight Ubuntu Kylin User Interface (UKUI) is perfect for older machines
 <br/>
 
 **6. Ubuntu Studio**<br/>
-<img src="" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/62945306/193768519-9d58c671-9d70-4776-bc57-866bb2386f20.png" width="50%" height="50%">
 
 Ubuntu Studio is pre-configured for content creation of all kinds. Whether you're an audio engineer, musician, graphic designer, photographer, video producer, or streamer, this is a full-fledged desktop computing system that will fit your needs. If you can dream it, you can create it with Ubuntu Studio.
 <br/>
 
 **6. Xubuntu**<br/>
-<img src="" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/62945306/193768395-10e66b95-5aae-4f27-b6a1-4178b1e1d5de.png" width="50%" height="50%">
 
 Xubuntu comes with Xfce, which is a stable, light and configurable desktop environment with a lot of consideration for usability. Whether you have a high-end computer or even a moderately older machine, Xubuntu is able to provide you with a smooth and usable desktop experience. Xubuntu has an expansive list of customization options so you can make the desktop your own.
-<br/>
 
 <!-- </div> -->
 
