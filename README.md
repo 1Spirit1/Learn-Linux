@@ -20,3 +20,5 @@ So what are you waiting for contribute, learn and grow.🖥️
 ## Contributing Guidelines
 
 Please follow the [contributing guidelines](contributing.md)
+
+* Don't forget to star the repository ⭐
