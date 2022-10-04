@@ -20,3 +20,5 @@ So what are you waiting for contribute, learn and grow.🖥️
 ## Contributing Guidelines
 
 Please follow the ![contributing guidlines](https://github.com/1Spirit1/Learn-Linux/blob/606f51e73c12310519449b935d3f1fc31034dc15/contributing.md)
+
+* Don't forget to star the repository ⭐
