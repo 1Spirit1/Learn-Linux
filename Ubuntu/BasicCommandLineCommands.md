@@ -21,6 +21,7 @@
     cat is one of the most frequently used comands, it's used to create a new file.
 
     Syntax: cat [file name]
+            cat [file1] [file2] > [file3]
 ## mv:
     It's used to move and rename file directories.
 
@@ -32,7 +33,7 @@
 ## rmdir: 
     rmdir is used to delete an empty directory.
 
-    Syntax: rmdri -p [directory/subdirectory]
+    Syntax: rmdir -p [directory/subdirectory]
 ## rm:
     rm command is used to delete files within a directory.
 
