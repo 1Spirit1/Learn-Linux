@@ -20,8 +20,8 @@
 ## cat:
     cat is one of the most frequently used comands, it's used to create a new file.
 
-    Syntax: cat [file name]
-            cat [file1] [file2] > [file3]
+    Syntax: cat [file name] {to create a new file}
+            cat [file1] [file2] > [file3] {to concatinate file1 and file2 and save them as file3}
 ## mv:
     It's used to move and rename file directories.
 
