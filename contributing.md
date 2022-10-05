@@ -2,6 +2,16 @@
 
 Hello 👋. We welcome you all to Learn Linux Repository🎊🎊
 
+<br/>
+
+SNo.| Content |
+| ---- | ------- |
+| 1 | [Contributing guidlines](#contributing-to-this-repository) | 
+| 2 | [Basics of git/github](#basics-of-git-and-github) | 
+
+
+<br/>
+
 ## Contributing to this repository
 Follow below rules for smooth contribution and create this repo valuable resource <br/>
 
