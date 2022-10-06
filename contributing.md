@@ -18,10 +18,10 @@ Follow below rules for smooth contribution and create this repo valuable resourc
  **1. See the Issue section** <br/>
 
 Try to make PR to only for open issues. See the issue section for open issues. Get yourself assigned and work on it. Issues that contain "self-assign" tag
-don't need assignment, anyone can work on them.<br/>
-**NOTE :** If think any area needs modification like content is outdated,typo, improvement you can open that issue by yourself and work on it.
+are special, anyone can work on them, just follow the rules mentioned in that respective issue.
 
-DON'T MAKE UNESCESSARY COMMITS AND PRs
+
+**NOTE :** If think any area needs modification like content is outdated,typo, improvement you can open that issue by yourself and work on it.
 
 <br/>
 
@@ -51,6 +51,7 @@ clicking on which one can navigate to a particular sub-directory. If you are add
 Again, inside subdirectories, there is another `README` file, that will contain all the topics that the subdirectory contains. The point of 
 adding `README` inside directories and sub-directories is to help someone know about the content that is residing inside the directory or subdirectory. 
 
+### Not following the contributing guidlines while posting a pull request may lead to an 'invalid' tag in your PR. 
 
 ---
 
