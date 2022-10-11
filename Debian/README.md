@@ -10,7 +10,7 @@ Debian, also known as Debian GNU/Linux, is a Linux distribution composed of free
 
 **Repository:** sources.debian.org
 
-**Latest release:** 11.5 (Bullseye) (September 10, 2022; 20 days ago)
+**Latest release:** 11.5 (Bullseye) (September 10, 2022)
 
 **Platforms:** x86-64, arm64, armel, armhf, i386, mips, mipsel, mips64el, ppc64el, s390x, riscv64 (in progress)
 
