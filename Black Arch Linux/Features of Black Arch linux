@@ -1,0 +1,24 @@
+# Features of Black Arch Linux
+Black arch is an arch based linux which has more than 1800 tools for pentesting and attacking. Blackarch stays out of the way to allow users get to their jobs without any distractions. Just look at the choice of desktop environments that the live ISO comes with including dwm, Fluxbox, Openbox, Awesome, wmii, i3, and Spectrwm. 
+
+![Black Arch Linux](https://www.linuxandubuntu.com/wp-content/uploads/2019/07/blackarch-fluxbox-desktop.jpg?ezimgfmt=rs:766x431/rscb30/ng:webp/ngcb30)
+
+![Black Arch](https://linuxreviews.org/images/thumb/1/14/Blackarch-menu.png/1200px-Blackarch-menu.png)
+
+Blackarch now contains over 1800 tools for i686 and x86_64 and over 1000 tools for armv6h and armv7h. This is quite impressive considering that a few years ago when the project was begun, there were about 600 tools available for users. The tools are organized in over 40 different groups. Examples of these groups are –​blackarch-anti-forensic – Packages that are used for countering forensic activities, including encryption, steganography, and anything that modifies files/file attributes.
+
+blackarch-automation --> Packages that are used for tool or workflow automation. 
+
+Blackarch-decompiler -->  Packages that attempt to reverse a compiled program into the source code.
+
+Blackarch-defensive --> Packages that are used to protect a user from malware and attacks from other users.
+
+Blackarch-dos --> Packages that use DoS (Denial of Service) attacks.
+
+Blackarch-mobile --> Packages that manipulate mobile platforms.
+
+Blackarch-networking --> Package that involves IP networking.
+
+# Conclusion
+
+BlackArch is a penetration testing distro that Arch lovers will love. It allows you the freedom to setup your workstation just the way you would want. Note that BlackArch is a relatively new project and has a long way to go. The developers/contributors of BlackArch Linux are volunteers and their work is for free on their free time.  It began with just over 600 tools and now has over 1800 for i686 and x86_64 and over 1000 tools for armv6h and armv7h and it is being updated at a pretty fast rate. It is always good to have options and Blackarch is worth looking at. Share your thoughts and comments with us on Blackarch penetration testing distro in the comment section below. Thanks for reading.
