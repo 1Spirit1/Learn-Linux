@@ -1,0 +1,39 @@
+# Installing packages in Manjaro
+
+## Manjaro has 4 ways of installing packages:
+1) Pamac GUI
+2) Pacman CLI
+3) Pacman GUI
+4) Yay 
+
+### 1) Pamac GUI:
+Pamac is the default preinstalled GUI package installer, we can open it and search for the package we want to install and can install it.
+
+### 2) Octopi Pacman GUI:
+Octopi is a 3rd party app made to install packages, using it is just as simple as Pamac, just search for packages select them and click on install.
+
+### 3) Pacman CLI:
+Pacman is the default commandline package install tool in Manjaro, to install a package, just type:
+```sudo pacman -S {package_name}```
+where {package_name} is the name of the package for example the following snipplet would install chromium browser:
+```sudo pacman -S chromium```
+
+To remove a package, just type
+```sudo pacman -R {package_name}```
+where {package_name} is the name of the package, for example the following snipplet would remove chromium browser:
+```sudo pacman -R chromium```
+
+### 4) Yay
+We can't install AUR files using just pacman or pamac, so we need to use some external terminal package to install them, yay is one of them, to install yay, type the following into your terminal:
+
+```
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+```
+
+once it's installed, you can install packages by typing:
+```yay -S {package_name}```
+
+to remove a package, just type:
+```yay -R {package_name}```
